@@ -3,7 +3,7 @@
 </a>
 
 ## Hey there! I'm Luis Enrique
-I'm Luis Enrique. I'm an student of ASIR (Administration of Networked Computer Systems). 
+I'm an student of ASIR (Administration of Networked Computer Systems). 
 I'm passionate about technology and cybersecurity.
 
 ### Areas of Interest
